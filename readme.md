@@ -10,7 +10,7 @@ VFO Studio Adaptive is a touch-oriented VFO platform designed around the
 idea that the user interface can change without changing the underlying
 radio.
 <p align="center">
-  <img src="images/20260917_184743.jpg" width="400">
+  <img src="images/20260918_123654.jpg" width="400">
 </p>
 The V2.1 Personal release provides two firmware editions: **Free** and
 **Personal Pro**.
