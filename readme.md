@@ -299,6 +299,7 @@ represent:
 - VU
 
 Visual styles can include analog, arc and LED/block presentations.
+Note: Meter types and visual presentations are firmware/design dependent. Some meter functions are currently under development and may not be available in the current release.
 
 ---
 
