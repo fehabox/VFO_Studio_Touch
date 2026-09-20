@@ -12,6 +12,9 @@ radio.
 <p align="center">
   <img src="images/20260917_184728.jpg" width="400">
 </p>
+<p align="center">
+  <img src="images/ESP32-S3 _SI5351.png" width="400">
+</p>
 The V2.1 Personal release provides two firmware editions: **Free** and
 **Personal Pro**.
 
@@ -296,6 +299,9 @@ represent:
 - VU
 
 Visual styles can include analog, arc and LED/block presentations.
+
+
+Note: Meter types and visual presentations are firmware/design dependent. Some meter functions are currently under development and may not be available in the current release.
 
 ---
 
