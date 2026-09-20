@@ -18,6 +18,9 @@ radio.
 <p align="center">
   <img src="images/SI5351_OUTPUTS.png" width="400">
 </p>
+<p align="center">
+  <img src="images/SI5351_Calibration.png" width="400">
+</p>
 The V2.1 Personal release provides two firmware editions: **Free** and
 **Personal Pro**.
 
