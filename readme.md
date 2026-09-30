@@ -24,7 +24,11 @@ radio.
 The V2.1 Personal release provides two firmware editions: **Free** and
 **Personal Pro**.
 
----
+Hardware Manufacturers
+
+Want your ESP32 display board supported?
+
+Contact @fehabox — development boards are welcome for compatibility testing.---
 
 ## V2.1 Personal Editions
 
