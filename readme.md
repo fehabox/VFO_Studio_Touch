@@ -24,12 +24,40 @@ radio.
 The V2.1 Personal release provides two firmware editions: **Free** and
 **Personal Pro**.
 
-Hardware Manufacturers
+================================================================
+SUPPORTED HARDWARE
+================================================================
 
+Waveshare ESP32-S3-Touch-LCD-2
+
+ESP32-S3R8 / 2-inch ST7789T3 display / CST816D touch
+https://www.waveshare.com/esp32-s3-touch-lcd-2.htm
+
+================================================================
+
+Waveshare ESP32-S3-Touch-LCD-3.5
+
+ESP32-S3R8 / 3.5-inch ST7796 display / FT6336 touch
+https://www.waveshare.com/esp32-s3-touch-lcd-3.5.htm
+
+================================================================
+PLANNED / TEST HARDWARE
+================================================================
+
+Waveshare ESP32-S3-Touch-LCD-4.3
+
+ESP32-S3 dual-core LX7 / 4.3-inch 800×480 LCD / 5-point
+capacitive touch / 8MB PSRAM / 16MB Flash
+
+Wi-Fi 2.4GHz / Bluetooth 5 LE / CAN / RS485 / I2C / TF card / USB
+
+https://www.waveshare.com/esp32-s3-touch-lcd-4.3.htm
+
+================================================================
+Hardware manufacturers:
 Want your ESP32 display board supported?
-
-Contact @fehabox — development boards are welcome for compatibility testing.---
-
+Contact @fehabox — development boards are welcome for compatibility testing.
+================================================================
 ## V2.1 Personal Editions
 
 | Feature | Free Edition | Personal Pro |
